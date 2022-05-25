@@ -1,0 +1,15 @@
+body{
+    background-color: palevioletred;
+}
+
+.form{
+    background-color: violet;
+    margin: 200px 200px 200px 200px ;
+    padding: 20px 20px 20px 20px ;
+
+
+}
+
+.name{
+    text-align: center;
+}
