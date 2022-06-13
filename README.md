@@ -1,4 +1,4 @@
-# 1.hafta.sali.odevi
+
 # 1.hafta.sali.odevi
 #####Araştırma Ödevleri############################################################
 #    xhtml ile Html5 arasındaki farklar?
